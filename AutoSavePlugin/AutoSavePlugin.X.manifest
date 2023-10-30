@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="AutoSavePlugin" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{f3d09bba-c3a4-400d-a1ad-6963bf40771b}" progid="AutoSavePlugin.PluginServer" threadingModel="Both" name="AutoSavePlugin.PluginServer"></clrClass>
+  <file name="AutoSavePlugin.dll" hashalg="SHA1"></file>
+</assembly>

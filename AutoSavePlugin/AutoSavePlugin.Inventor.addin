@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Plugin">
+  <ClassId>{f3d09bba-c3a4-400d-a1ad-6963bf40771b}</ClassId>
+  <ClientId>{f3d09bba-c3a4-400d-a1ad-6963bf40771b}</ClientId>
+  <DisplayName>AutoSavePlugin</DisplayName>
+  <Description>a AutoSavePlugin</Description>
+  <Assembly>AutoSavePlugin.dll</Assembly>
+</Addin>
